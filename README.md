@@ -8,7 +8,11 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 ## Getting Started
 
 To get started, clone or download this repository to your local machine. Each code snippet is contained within its folder along with the corresponding circuit image. You can open the code in the Arduino IDE and upload it to your Arduino board. Refer to the circuit image to build the circuit correctly.
+## Installation
 
+You can download and install the IDE and simulator from the link below.
+
+ https://drive.google.com/drive/folders/192cGY2WXTXRGDDS_I3xW9S1vO5tXAYvW?usp=drive_link 
 ## Contents
 
 The repository includes:
