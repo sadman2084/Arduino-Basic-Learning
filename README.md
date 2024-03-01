@@ -12,7 +12,7 @@ To get started, clone or download this repository to your local machine. Each co
 
 You can download and install the IDE and simulator from the link below.
 
- [https://drive.google.com/drive/folders/192cGY2WXTXRGDDS_I3xW9S1vO5tXAYvW?usp=drive_link ](https://drive.google.com/drive/folders/1qhYqgIQbmsDIsDzrqfdUvZij5C27aD4H?usp=drive_link)
+ https://drive.google.com/drive/folders/192cGY2WXTXRGDDS_I3xW9S1vO5tXAYvW?usp=sharing
 ## Contents
 
 The repository includes:
