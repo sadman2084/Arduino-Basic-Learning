@@ -1,6 +1,7 @@
 # Arduino Basics
 
 Welcome to the Arduino Basics repository! Here you'll find simple Arduino code snippets along with corresponding circuit images to help you learn the fundamentals of Arduino programming and electronics.
+
 ## Introduction
 
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's an excellent platform for beginners to dive into the world of electronics and programming. This repository aims to provide you with basic Arduino code examples accompanied by circuit images to assist your learning process.
@@ -8,17 +9,47 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 ## Getting Started
 
 To get started, clone or download this repository to your local machine. Each code snippet is contained within its folder along with the corresponding circuit image. You can open the code in the Arduino IDE and upload it to your Arduino board. Refer to the circuit image to build the circuit correctly.
+
 ## Installation
 
-You can download and install the IDE and simulator from the link below.
+You can download and install the IDE and simulator from the link below:
 
- https://drive.google.com/drive/folders/192cGY2WXTXRGDDS_I3xW9S1vO5tXAYvW?usp=sharing
+[Arduino IDE and Simulator](https://drive.google.com/drive/folders/192cGY2WXTXRGDDS_I3xW9S1vO5tXAYvW?usp=sharing)
+
 ## Contents
 
 The repository includes:
 
 - **Arduino code**: Basic Arduino code examples covering various concepts such as digital input/output, analog input/output, sensors, actuators, and more.
 - **Circuit images**: Images illustrating the circuit connections required for each code example.
+
+## Components Used
+
+I have utilized various Arduino kits and components in creating these examples, including:
+
+- Arduino Uno
+- Servo Motor
+- Solar Panel
+- IR Sensor
+- Obstacle Sensor
+- Moisture Sensor
+- Water Pump
+- LED Lights
+- Ultrasonic Sensor
+- Matrix Keyboard
+- Relay
+- PIR Sensor
+- Pressure Motor
+- Voltmeter
+- Voltage Converter
+- Resistor
+- Diode
+- Battery
+- Breadboard
+- 20x4 LCD Display
+- Transistor
+- Buzzer
+- HC-05 Bluetooth Module
 
 ## Usage
 
