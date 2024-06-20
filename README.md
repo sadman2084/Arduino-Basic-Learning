@@ -50,7 +50,9 @@ I have utilized various Arduino kits and components in creating these examples, 
 - Transistor
 - Buzzer
 - HC-05 Bluetooth Module
-
+- NIA219 sensor
+- RFID-RC522 card sensor
+  
 ## Usage
 
 1. Clone or download this repository to your local machine.
